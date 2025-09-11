@@ -24,8 +24,6 @@ To run the project, make sure you have the following dependencies installed:
 The application is deployed using Streamlit, which provides an interactive user interface. To run the application, use the following command:
 `streamlit run app.py` .
 
-**Link** : https://soulofmercara.streamlit.app/
-
 
 :computer: **Usage**
 
