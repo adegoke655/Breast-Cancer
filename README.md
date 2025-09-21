@@ -1,6 +1,6 @@
 # Breast Cancer Predictor :bar_chart: :mag_right:
 
-This repository contains a mini project for breast cancer prediction using machine learning algorithms. The project includes a user-friendly application that allows users to input relevant features and predicts whether a breast tumor is benign or malignant.
+This repository contains a mini project for breast cancer prediction using machine learning algorithms. The project includes a user-friendly application that allows users to input relevant features and predicts whether a breast tumor is benign or malignant. 
 
 :camera: *Demo Picture*.
 
@@ -32,7 +32,7 @@ Follow the steps below to use the breast cancer predictor application:
 - Launch the application by running the above command.
 - Fill in the input fields with the relevant features for breast cancer prediction.
 - Click the "Predict" button to obtain the prediction result.
-- The application will display whether the tumor is benign or malignant. 
+- The application will display whether the tumor is benign or malignant.
 
 
 :page_facing_up: **License**
