@@ -36,4 +36,4 @@ Follow the steps below to use the breast cancer predictor application:
 
 
 :page_facing_up: **License**
-This project is licensed under the MIT License. :memo:
+This project is licensed under the MIT License. :memo: 
