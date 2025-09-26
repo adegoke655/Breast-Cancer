@@ -22,7 +22,7 @@ To run the project, make sure you have the following dependencies installed:
 :rocket: **Deployment**. 
 
 The application is deployed using Streamlit, which provides an interactive user interface. To run the application, use the following command: 
-`streamlit run app.py` .
+`streamlit run app.py` . 
 
 
 :computer: **Usage**
