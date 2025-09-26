@@ -1,4 +1,4 @@
-# Breast Cancer Predictor :bar_chart: :mag_right: 
+# Breast Cancer Predictor :bar_chart: :mag_right:
 
 This repository contains a mini project for breast cancer prediction using machine learning algorithms. The project includes a user-friendly application that allows users to input relevant features and predicts whether a breast tumor is benign or malignant. 
 
