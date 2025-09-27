@@ -32,7 +32,7 @@ Follow the steps below to use the breast cancer predictor application:
 - Launch the application by running the above command.
 - Fill in the input fields with the relevant features for breast cancer prediction.
 - Click the "Predict" button to obtain the prediction result.
-- The application will display whether the tumor is benign or malignant.
+- The application will display whether the tumor is benign or malignant. 
 
 
 :page_facing_up: **License**
