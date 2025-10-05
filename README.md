@@ -7,7 +7,7 @@ This repository contains a mini project for breast cancer prediction using machi
 ![alt text](https://github.com/Zaheer-10/Breast_Cancer_Detection/blob/main/Demo_pic.png)
 
 :pushpin: **Requirements**.
-To run the project, make sure you have the following dependencies installed:
+To run the project, make sure you have the following dependencies installed: 
 
 - ` numpy==1.23.4` 
 - ` pandas==1.5.1` 
