@@ -2,7 +2,7 @@
 
 This repository contains a mini project for breast cancer prediction using machine learning algorithms. The project includes a user-friendly application that allows users to input relevant features and predicts whether a breast tumor is benign or malignant.
 
-:camera: *Demo Picture*. 
+:camera: *Demo Picture*.
 
 ![alt text](https://github.com/Zaheer-10/Breast_Cancer_Detection/blob/main/Demo_pic.png)
 
