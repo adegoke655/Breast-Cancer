@@ -10,7 +10,7 @@ This repository contains a mini project for breast cancer prediction using machi
 To run the project, make sure you have the following dependencies installed:
 
 - ` numpy==1.23.4` 
-- ` pandas==1.5.1` 
+- ` pandas==1.5.1`
 - ` pickle5==0.0.11` 
 - ` plotly==5.11.0` 
 - ` scikit_learn==1.2.2` 
