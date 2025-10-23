@@ -27,7 +27,7 @@ The application is deployed using Streamlit, which provides an interactive user 
 
 :computer: **Usage**
 
-Follow the steps below to use the breast cancer predictor application:
+Follow the steps below to use the breast cancer predictor application: 
 
 - Launch the application by running the above command.
 - Fill in the input fields with the relevant features for breast cancer prediction.
